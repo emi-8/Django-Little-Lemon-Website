@@ -3,8 +3,6 @@
 
 Capabilities:
 
-Capabilities
-
 1. Users can navigate to the pages About, Menu and Book using the main menu. 
 2. The menu page contains a list of the menu items that are stored in the database.
 3. Each menu item can be added using the Django Administration user interface.
